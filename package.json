@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": ["pizarra", "socket.io", "paint", "websocket"],
-°  "license": "ISC",
+  "license": "ISC",
   "dependencies": {
     "express": "^4.15.3",
     "socket.io": "^2.0.3"
